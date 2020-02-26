@@ -1,0 +1,66 @@
+﻿Kenya Chauche
+Contact: kenyachauche@gmail.com |  (858) 602 -9766
+GitHub: https://github.com/KChauche
+LinkedIn: https://www.linkedin.com/in/kenyachauche/
+Website: https://kenyachauche.com/
+Education 
+Certificate, Data Science Immersive -- General Assembly Seattle
+2019 - 2020 
+The Data Science Immersive Program equips graduates with over 600 hours of training in industry leading tools and techniques. Through projects completed in the course with real-world datasets graduates hone their skills in data analysis, modeling, machine learning, and visualization.
+
+
+Coursework, Math and Computer Science -- Seattle Community Colleges 
+2018 - 2019
+Coursework in Calculus and Introductory Computer Science focusing on Python and Java. Classes taken provided groundwork for transition to technical educational programs. 
+
+
+Bachelor of Science (B.S.), Ecology and Conservation -- University of Washington 
+2013 - 2017
+Minored in English Literature in addition to Ecology and Conservation major. Courses focused on ecology and conservation efforts, with projects involving research, labwork, gathering samples and data, and data analysis using R.
+
+
+Skills 
+* Python                                 -     Pandas                        -     Numpy 
+* Matplotlib                        -     Seaborn                        -     Scikit-Learn 
+* BeautifulSoup                        -     Web scraping                        -     APIs
+* Data Visualization                 -     Public Speaking                 -     Natural Language Processing        
+* SQL                                -     SciPy hypothesis testing        -     Machine Learning
+
+
+Data Science Projects
+BluPrint: Demystifying First Time Home Buying
+January 2020
+Python, Pandas, Numpy, Machine Learning, Linear Regression Modeling
+GitHub Link: https://github.com/KenyaChauche/subreddit-classification
+Linear regression modeling predicting sale prices for homes in Ames, Iowa. Features in the model identified based on significance of relationship with final sale price and intuitive understandability. Project suggested building an app (BluPrint) that would allow first-time homebuyers to build a realistic budget based on what their “dream home” would be. 
+
+
+Abuse in Hiding: Classification Between r/Relationships and r/RelationshipAbuse Subreddits 
+February 2020
+Python, BeautifulSoup, Web Scraping, API, Logistic Regression Modeling, Natural Language Processing
+GitHub Link: [coming soon]
+Classification modeling combined with NLP to distinguish between posts in two subreddits: r/Relationships and r/RelationshipAbuse. Goal is to successfully distinguish between the two communities based on language usage. The outcome will allow recommendations to be made to caretakers who interact with clients over text (ie: text-communication-based therapists) regarding key words and phrases that indicate relationship abuse, allowing abuse survivors to be connected with resources more proactively. 
+
+
+Experience
+Shift Lead, Optimism Brewing Company -- Seattle, WA 
+June 2018 - Present
+* Research and maintain technical knowledge of beer styles and brewing process
+* Communicate to both technical and non-technical audiences regarding brewing and style traits
+* Supervise and coordinate teams of up to 12 staff members
+* Manage and update standard operating procedures
+
+
+MultiMedia Consultant, Shirts Across America -- Seattle, WA 
+June 2018 - November 2018 
+* Developed social media plan to increase visibility and user engagement resulting in more consistent information dispersion and more engaged student participants
+* Researched search engine optimization techniques 
+* Created graphics for website and social media content
+
+
+Program Manager, Shirts Across America -- Seattle, WA 
+May 2017 - June 2018
+* Aided in development and maintenance of website by planning website layout and formatting pages using HTML resulting in easier-to-use interface for student and parent participants
+* Developed leadership curriculum for high school students pertaining to social justice and activism, promoting mindfulness and inclusion while developing strategies for local and national philanthropic action
+* Coordinated, supervised, and trained 70 - 150 volunteers on national philanthropy trips
+* Managed and organized volunteer records and data
