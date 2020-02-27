@@ -31,14 +31,14 @@ Data Science Projects
 BluPrint: Demystifying First Time Home Buying
 January 2020
 Python, Pandas, Numpy, Machine Learning, Linear Regression Modeling
-GitHub Link: https://github.com/KenyaChauche/subreddit-classification
+GitHub Link: https://github.com/KenyaChauche/bluprint
 Linear regression modeling predicting sale prices for homes in Ames, Iowa. Features in the model identified based on significance of relationship with final sale price and intuitive understandability. Project suggested building an app (BluPrint) that would allow first-time homebuyers to build a realistic budget based on what their “dream home” would be. 
 
 
 Abuse in Hiding: Classification Between r/Relationships and r/RelationshipAbuse Subreddits 
 February 2020
 Python, BeautifulSoup, Web Scraping, API, Logistic Regression Modeling, Natural Language Processing
-GitHub Link: [coming soon]
+GitHub Link: https://github.com/KenyaChauche/subreddit-classification
 Classification modeling combined with NLP to distinguish between posts in two subreddits: r/Relationships and r/RelationshipAbuse. Goal is to successfully distinguish between the two communities based on language usage. The outcome will allow recommendations to be made to caretakers who interact with clients over text (ie: text-communication-based therapists) regarding key words and phrases that indicate relationship abuse, allowing abuse survivors to be connected with resources more proactively. 
 
 
