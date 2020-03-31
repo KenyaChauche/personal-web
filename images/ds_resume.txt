@@ -1,5 +1,6 @@
 ﻿Kenya Chauche
-Contact: kenyachauche@gmail.com |  (858) 602 -9766
+Data Analyst || Program Manager
+Contact: kenyachauche@gmail.com |  (858) 602 -9766  |  Seattle, WA
 GitHub: https://github.com/KChauche
 LinkedIn: https://www.linkedin.com/in/kenyachauche/
 Website: https://kenyachauche.com/
@@ -28,6 +29,20 @@ Skills
 
 
 Data Science Projects
+Much Ado About Training: Natural Language Generation with Shakespearean Sonnets 
+March 2020
+Python, Natural Language Generation, Keras, Neural Networks, BeautifulSoup, Web Scraping
+GitHub Link: https://github.com/KenyaChauche/sonnet-generation
+Natural Language Generation with a neural network trained on Shakespeare’s sonnets. This project explores the performance of NLG modeling when training on a rigorously structured language format. 
+
+
+Abuse in Hiding: Classification Between r/Relationships and r/RelationshipAbuse Subreddits 
+February 2020
+Python, BeautifulSoup, Web Scraping, API, Logistic Regression Modeling, Natural Language Processing
+GitHub Link: https://github.com/KenyaChauche/subreddit-classification
+Classification modeling combined with NLP to distinguish between posts in two subreddits: r/Relationships and r/RelationshipAbuse. Goal is to successfully distinguish between the two communities based on language usage and identify key words and phrases that indicate relationship abuse. 
+
+
 BluPrint: Demystifying First Time Home Buying
 January 2020
 Python, Pandas, Numpy, Machine Learning, Linear Regression Modeling
@@ -35,14 +50,14 @@ GitHub Link: https://github.com/KenyaChauche/bluprint
 Linear regression modeling predicting sale prices for homes in Ames, Iowa. Features in the model identified based on significance of relationship with final sale price and intuitive understandability. Project suggested building an app (BluPrint) that would allow first-time homebuyers to build a realistic budget based on what their “dream home” would be. 
 
 
-Abuse in Hiding: Classification Between r/Relationships and r/RelationshipAbuse Subreddits 
-February 2020
-Python, BeautifulSoup, Web Scraping, API, Logistic Regression Modeling, Natural Language Processing
-GitHub Link: https://github.com/KenyaChauche/subreddit-classification
-Classification modeling combined with NLP to distinguish between posts in two subreddits: r/Relationships and r/RelationshipAbuse. Goal is to successfully distinguish between the two communities based on language usage. The outcome will allow recommendations to be made to caretakers who interact with clients over text (ie: text-communication-based therapists) regarding key words and phrases that indicate relationship abuse, allowing abuse survivors to be connected with resources more proactively. 
-
-
 Experience
+Freelance Data Analyst, Camano Island Fire Department -- Camano Island, WA 
+February 2020 
+* Coordinated and managed project identifying high call density times for the Camano Island Fire Department
+* Managed task allocation and timeline
+* Analyzed and interpreted data to identify times of high call density
+* Designed and created an executable product that would work with new datasets
+* Drafted and produced input verification feature for executable
 Shift Lead, Optimism Brewing Company -- Seattle, WA 
 June 2018 - Present
 * Research and maintain technical knowledge of beer styles and brewing process
