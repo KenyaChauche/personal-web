@@ -1,0 +1,93 @@
+﻿Kenya Chauche
+Data Analyst
+Contact: kenyachauche@gmail.com |  (858) 602 -9766  |  Seattle, WA
+GitHub: https://github.com/KChauche
+LinkedIn: https://www.linkedin.com/in/kenyachauche/
+Website: https://kenyachauche.com/
+Education 
+Certificate, Data Science Immersive -- General Assembly Seattle
+2019 - 2020 
+The Data Science Immersive Program equips graduates with over 600 hours of training in industry leading tools and techniques. Through projects completed in the course with real-world datasets graduates hone their skills in data analysis, data extraction, coding solutions, code review, modeling, machine learning, and visualization.
+
+
+Coursework, Math and Computer Science -- Seattle Community Colleges 
+2018 - 2019
+Coursework in Calculus and Introductory Computer Science focusing on Python and Java. Classes taken provided groundwork for transition to technical educational programs. 
+
+
+Bachelor of Science (B.S.), Biology: Ecology and Conservation -- University of Washington 
+2013 - 2017
+Minored in English Literature in addition to Ecology and Conservation emphasis of Biology major. Courses focused on ecology and conservation efforts, with projects involving research, labwork, gathering samples, data extraction, data formatting, and data analysis using R.
+
+
+Skills 
+* Python                                 -     Pandas                        -    Numpy 
+* Tableau                                -     Microsoft Excel                -    Scikit-Learn 
+* SQL                                -     Matplotlib                        -    APIs
+* Data Visualization                 -     Public Speaking                 -    Seaborn
+* Machine Learning                -     SciPy hypothesis testing        -    Communication & Collaboration
+
+
+Data Science Projects
+Much Ado About Training: Natural Language Generation with Shakespearean Sonnets 
+March 2020
+Python, Keras, Neural Networks, BeautifulSoup, Web Scraping, Data Extraction, Data Formatting
+GitHub Link: https://github.com/KenyaChauche/sonnet-generation
+Natural Language Generation with a neural network trained on Shakespeare’s sonnets. This project explores the performance of NLG modeling when training on a rigorously structured language format. 
+
+
+Abuse in Hiding: Classification Between r/Relationships and r/RelationshipAbuse Subreddits 
+February 2020
+Python, Web Scraping, Logistic Regression Modeling, Natural Language Processing, Data Extraction, Data Formatting
+GitHub Link: https://github.com/KenyaChauche/subreddit-classification
+Classification modeling combined with NLP to distinguish between posts in two subreddits: r/Relationships and r/RelationshipAbuse. Goal is to successfully distinguish between the two communities based on language usage and identify key words and phrases that indicate relationship abuse. 
+
+
+BluPrint: Demystifying First Time Home Buying
+January 2020
+Python, Pandas, Numpy, Machine Learning, Linear Regression Modeling, Data Formatting
+GitHub Link: https://github.com/KenyaChauche/bluprint
+Linear regression modeling predicting sale prices for homes in Ames, Iowa. Features in the model identified based on significance of relationship with final sale price and intuitive understandability. Project suggested building an app (BluPrint) that would allow first-time homebuyers to build a realistic budget based on what their “dream home” would be. 
+
+
+Experience
+Data Analytics Teaching Assistant, General Assembly -- Seattle, WA 
+May 2020 - Present
+* Maintain thorough knowledge of data analytics techniques and ethics with a special focus on Excel, Tableau, and SQL
+* Work directly with students to develop better understanding of course material, analytics workflow, and data handling
+* Facilitate successful remote learning environment 
+* Assist in student assessment and work with lead instructor to adjust to cohort needs
+
+
+Freelance Data Analyst, Camano Island Fire Department -- Camano Island, WA 
+February 2020, May 2020 - Present
+* Coordinate and manage project identifying high call density times for the Camano Island Fire Department
+* Manage task allocation and timeline when working on collaborative projects
+* Analyze and interpret department response data to identify areas of improvement 
+* Use Python, Excel, and Tableau to manage, clean, analyze, and visualize data
+* Design and create personalized tools for internal department use
+
+
+Shift Lead, Optimism Brewing Company -- Seattle, WA 
+June 2018 - Present
+* Research and maintain technical knowledge of beer styles and brewing process
+* Communicate to both technical and non-technical audiences regarding brewing and style traits
+* Supervise and coordinate teams of up to 12 staff members
+* Manage, update, and aid in creating standard operating procedures
+
+
+MultiMedia Consultant, Shirts Across America -- Seattle, WA 
+June 2018 - November 2018 
+* Developed social media plan to increase visibility and user engagement resulting in more consistent information dispersion and more engaged student participants
+* Researched search engine optimization techniques 
+* Created graphics for website and social media content
+
+
+Program Manager, Shirts Across America -- Seattle, WA 
+May 2017 - June 2018
+* Aided in development and maintenance of website by planning website layout and formatting pages using HTML resulting in easier-to-use interface for student and parent participants
+* Developed leadership curriculum for high school students pertaining to social justice and activism, promoting mindfulness and inclusion while developing strategies for local and national philanthropic action
+* Coordinated, supervised, and trained 70 - 150 volunteers on national philanthropy trips
+* Managed, organized, and maintained volunteer records and data 
+* Analyzed participant feedback data and identified areas for improvement
+* Developed and updated standard operating procedures
