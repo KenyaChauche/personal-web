@@ -21,33 +21,11 @@ Minored in English Literature in addition to Ecology and Conservation emphasis o
 
 
 Skills 
-* Python                                 -     Pandas                        -    Numpy 
-* Tableau                                -     Microsoft Excel                -    Scikit-Learn 
-* SQL                                -     Matplotlib                        -    APIs
-* Data Visualization                 -     Public Speaking                 -    Seaborn
-* Machine Learning                -     SciPy hypothesis testing        -    Communication & Collaboration
-
-
-Data Science Projects
-Much Ado About Training: Natural Language Generation with Shakespearean Sonnets 
-March 2020
-Python, Keras, Neural Networks, BeautifulSoup, Web Scraping, Data Extraction, Data Formatting
-GitHub Link: https://github.com/KenyaChauche/sonnet-generation
-Natural Language Generation with a neural network trained on Shakespeare’s sonnets. This project explores the performance of NLG modeling when training on a rigorously structured language format. 
-
-
-Abuse in Hiding: Classification Between r/Relationships and r/RelationshipAbuse Subreddits 
-February 2020
-Python, Web Scraping, Logistic Regression Modeling, Natural Language Processing, Data Extraction, Data Formatting
-GitHub Link: https://github.com/KenyaChauche/subreddit-classification
-Classification modeling combined with NLP to distinguish between posts in two subreddits: r/Relationships and r/RelationshipAbuse. Goal is to successfully distinguish between the two communities based on language usage and identify key words and phrases that indicate relationship abuse. 
-
-
-BluPrint: Demystifying First Time Home Buying
-January 2020
-Python, Pandas, Numpy, Machine Learning, Linear Regression Modeling, Data Formatting
-GitHub Link: https://github.com/KenyaChauche/bluprint
-Linear regression modeling predicting sale prices for homes in Ames, Iowa. Features in the model identified based on significance of relationship with final sale price and intuitive understandability. Project suggested building an app (BluPrint) that would allow first-time homebuyers to build a realistic budget based on what their “dream home” would be. 
+* Data Visualization                -     Microsoft Excel                -    Data Handling & Analysis
+* Tableau                                -     Detail Oriented                -    Public Speaking
+* Machine Learning                -     Matplotlib                        -    MS Office
+* Python                                 -     Pandas                         -    Seaborn
+* SQL                                -     SciPy hypothesis testing        -    Communication & Collaboration
 
 
 Experience
@@ -57,15 +35,16 @@ May 2020 - Present
 * Work directly with students to develop better understanding of course material, analytics workflow, and data handling
 * Facilitate successful remote learning environment 
 * Assist in student assessment and work with lead instructor to adjust to cohort needs
+* Lead demos, troubleshoot code, and perform ad-hoc analysis with Excel, SQL, and Tableau
 
 
-Freelance Data Analyst, Camano Island Fire Department -- Camano Island, WA 
+Freelance Data Analyst, Camano Island Fire Department (CAMF) & Mary’s Place -- Seattle, WA 
 February 2020, May 2020 - Present
-* Coordinate and manage project identifying high call density times for the Camano Island Fire Department
-* Manage task allocation and timeline when working on collaborative projects
-* Analyze and interpret department response data to identify areas of improvement 
+* Coordinate and manage project timelines when working on collaborative projects
+* Analyze and interpret Mary’s Place data to provide insights on service and asset usage of client groups
+* Analyze and interpret CAMF response data to identify areas of improvement 
 * Use Python, Excel, and Tableau to manage, clean, analyze, and visualize data
-* Design and create personalized tools for internal department use
+* Design and create personalized tools for internal CAMF use
 
 
 Shift Lead, Optimism Brewing Company -- Seattle, WA 
@@ -91,3 +70,25 @@ May 2017 - June 2018
 * Managed, organized, and maintained volunteer records and data 
 * Analyzed participant feedback data and identified areas for improvement
 * Developed and updated standard operating procedures
+
+
+Data Science Projects
+Much Ado About Training: Natural Language Generation with Shakespearean Sonnets 
+March 2020
+Python, Keras, Neural Networks, BeautifulSoup, Web Scraping, Data Extraction, Data Formatting
+GitHub Link: https://github.com/KenyaChauche/sonnet-generation
+Natural Language Generation with a neural network trained on Shakespeare’s sonnets. This project explores the performance of NLG modeling when training on a rigorously structured language format. 
+
+
+Abuse in Hiding: Classification Between r/Relationships and r/RelationshipAbuse Subreddits 
+February 2020
+Python, Web Scraping, Logistic Regression Modeling, Natural Language Processing, Data Extraction, Data Formatting
+GitHub Link: https://github.com/KenyaChauche/subreddit-classification
+Classification modeling combined with NLP to distinguish between posts in two subreddits: r/Relationships and r/RelationshipAbuse. Goal is to successfully distinguish between the two communities based on language usage and identify key words and phrases that indicate relationship abuse. 
+
+
+BluPrint: Demystifying First Time Home Buying
+January 2020
+Python, Pandas, Numpy, Machine Learning, Linear Regression Modeling, Data Formatting
+GitHub Link: https://github.com/KenyaChauche/bluprint
+Linear regression modeling predicting sale prices for homes in Ames, Iowa. Features in the model identified based on significance of relationship with final sale price and intuitive understandability. Project suggested building an app enabling first-time homebuyers to build a realistic budget based on what their “dream home” would be.
