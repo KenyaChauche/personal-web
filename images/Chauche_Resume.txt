@@ -1,94 +1,53 @@
-﻿Kenya Chauche
-Data Analyst
-Contact: kenyachauche@gmail.com |  (858) 602 -9766  |  Seattle, WA
-GitHub: https://github.com/KChauche
-LinkedIn: https://www.linkedin.com/in/kenyachauche/
-Website: https://kenyachauche.com/
-Education 
-Certificate, Data Science Immersive -- General Assembly Seattle
-2019 - 2020 
-The Data Science Immersive Program equips graduates with over 600 hours of training in industry leading tools and techniques. Through projects completed in the course with real-world datasets graduates hone their skills in data analysis, data extraction, coding solutions, code review, modeling, machine learning, and visualization.
-
-
-Coursework, Math and Computer Science -- Seattle Community Colleges 
-2018 - 2019
-Coursework in Calculus and Introductory Computer Science focusing on Python and Java. Classes taken provided groundwork for transition to technical educational programs. 
-
-
-Bachelor of Science (B.S.), Biology: Ecology and Conservation -- University of Washington 
-2013 - 2017
-Minored in English Literature in addition to Ecology and Conservation emphasis of Biology major. Courses focused on ecology and conservation efforts, with projects involving research, labwork, gathering samples, data extraction, data formatting, and data analysis using R.
-
-
-Skills 
-* Data Visualization                -     Microsoft Excel                -    Data Handling & Analysis
-* Tableau                                -     Detail Oriented                -    Public Speaking
-* Machine Learning                -     Matplotlib                        -    MS Office
-* Python                                 -     Pandas                         -    Seaborn
-* SQL                                -     SciPy hypothesis testing        -    Communication & Collaboration
-
-
+﻿Kenya Chauche Data Analyst    |    kenyachauche@gmail.com    |     858 602 9766    |   Seattle, WA
+ https://kenyachauche.com     |     https://github.com/KChauche     |     https://www.linkedin.com/in/kenyachauche 
 Experience
-Data Analytics Teaching Assistant, General Assembly -- Seattle, WA 
-May 2020 - Present
-* Maintain thorough knowledge of data analytics techniques and ethics with a special focus on Excel, Tableau, and SQL
-* Work directly with students to develop better understanding of course material, analytics workflow, and data handling
-* Facilitate successful remote learning environment 
+Data Analytics Teaching Assistant, General Assembly -- Seattle, WA                                                   May 2020 - Present
+* Maintain thorough knowledge of data analytics techniques with a special focus on Excel, Tableau, and SQL
+* Work with students, improve understanding of course material, analytics workflow, and data handling
 * Assist in student assessment and work with lead instructor to adjust to cohort needs
 * Lead demos, troubleshoot code, and perform ad-hoc analysis with Excel, SQL, and Tableau
 
 
-Freelance Data Analyst, Camano Island Fire Department (CAMF) & Mary’s Place -- Seattle, WA 
-February 2020, May 2020 - Present
-* Coordinate and manage project timelines when working on collaborative projects
-* Analyze and interpret Mary’s Place data to provide insights on service and asset usage of client groups
-* Analyze and interpret CAMF response data to identify areas of improvement 
-* Use Python, Excel, and Tableau to manage, clean, analyze, and visualize data
-* Design and create personalized tools for internal CAMF use
-
-
-Shift Lead, Optimism Brewing Company -- Seattle, WA 
-June 2018 - Present
+Data Analyst, Freelance -- Seattle, WA                                                                              February 2020, May 2020 - Present
+* Work directly with stakeholders to define project deliverables and identify client needs
+* Manage, clean, analyze, and visualize data with tools such as Python, Tableau, Excel, and SQL
+* Communicate insights to technical and non-technical audiences through both written and verbal means
+* Design and create personalized tools for internal organization use
+Shift Lead, Optimism Brewing Company -- Seattle, WA                                                         June 2018 - Present
 * Research and maintain technical knowledge of beer styles and brewing process
 * Communicate to both technical and non-technical audiences regarding brewing and style traits
-* Supervise and coordinate teams of up to 12 staff members
+* Supervise, train, coordinate teams of up to 12 staff members
 * Manage, update, and aid in creating standard operating procedures
 
 
-MultiMedia Consultant, Shirts Across America -- Seattle, WA 
-June 2018 - November 2018 
-* Developed social media plan to increase visibility and user engagement resulting in more consistent information dispersion and more engaged student participants
-* Researched search engine optimization techniques 
+MultiMedia Consultant, Shirts Across America -- Seattle, WA                                                     June 2018 - November 2018 
+* Developed social media plan resulting in increased participant engagement and more consistent updates
+* Researched and employed search engine optimization techniques 
 * Created graphics for website and social media content
 
 
-Program Manager, Shirts Across America -- Seattle, WA 
-May 2017 - June 2018
-* Aided in development and maintenance of website by planning website layout and formatting pages using HTML resulting in easier-to-use interface for student and parent participants
-* Developed leadership curriculum for high school students pertaining to social justice and activism, promoting mindfulness and inclusion while developing strategies for local and national philanthropic action
+Program Manager, Shirts Across America -- Seattle, WA                                                                         May 2017 - June 2018
+* Aided in website development, planned layout, formatted pages resulting in more user-friendly experience
+* Developed leadership curriculum for high school students pertaining to social justice and activism
 * Coordinated, supervised, and trained 70 - 150 volunteers on national philanthropy trips
-* Managed, organized, and maintained volunteer records and data 
+* Managed, organized, maintained, and analyzed  large data sets of volunteer records 
 * Analyzed participant feedback data and identified areas for improvement
-* Developed and updated standard operating procedures
-
-
+Skills 
+* Data Visualization                -    Microsoft Excel        -    Data Handling & Analysis         -    Tableau 
+* Data Presentation                -    Public Speaking        -    Machine Learning                -    Matplotlib
+* Communication                -    Python                 -    Pandas                         -    Seaborn
+* SciPy hypothesis testing        -    SQL                        -    Project Management                -    MS Office
+Education 
+Certificate, Data Science Immersive -- General Assembly Seattle                                                                             2019 - 2020 
+Over 600 hours of training in industry leading tools, data analysis, data extraction, code review, machine learning, and visualization.
+Coursework, Math and Computer Science -- Seattle Community Colleges                                                                         2018 - 2019
+Coursework in Calculus and Computer Science focusing on Python and Java. 
+Bachelor of Science (B.S.), Biology: Ecology and Conservation -- University of Washington                                                       2013 - 2017
+Coursework involved research, labwork, data collection, data formatting, and data analysis using R. English Literature Minor.
 Data Science Projects
-Much Ado About Training: Natural Language Generation with Shakespearean Sonnets 
-March 2020
-Python, Keras, Neural Networks, BeautifulSoup, Web Scraping, Data Extraction, Data Formatting
-GitHub Link: https://github.com/KenyaChauche/sonnet-generation
-Natural Language Generation with a neural network trained on Shakespeare’s sonnets. This project explores the performance of NLG modeling when training on a rigorously structured language format. 
-
-
-Abuse in Hiding: Classification Between r/Relationships and r/RelationshipAbuse Subreddits 
-February 2020
-Python, Web Scraping, Logistic Regression Modeling, Natural Language Processing, Data Extraction, Data Formatting
-GitHub Link: https://github.com/KenyaChauche/subreddit-classification
-Classification modeling combined with NLP to distinguish between posts in two subreddits: r/Relationships and r/RelationshipAbuse. Goal is to successfully distinguish between the two communities based on language usage and identify key words and phrases that indicate relationship abuse. 
-
-
-BluPrint: Demystifying First Time Home Buying
-January 2020
-Python, Pandas, Numpy, Machine Learning, Linear Regression Modeling, Data Formatting
-GitHub Link: https://github.com/KenyaChauche/bluprint
-Linear regression modeling predicting sale prices for homes in Ames, Iowa. Features in the model identified based on significance of relationship with final sale price and intuitive understandability. Project suggested building an app enabling first-time homebuyers to build a realistic budget based on what their “dream home” would be.
+Much Ado About Training -- Python, Keras, Neural Networks, BeautifulSoup, Web Scraping, Data Extraction, Data Formatting
+Natural Language Generation with a neural network trained on Shakespeare’s sonnets. 
+Abuse in Hiding -- Python, Web Scraping, Logistic Regression Modeling, Natural Language Processing, Data Extraction, Data Formatting
+NLP classification modeling to distinguish between two subreddits: r/Relationships and r/RelationshipAbuse. 
+BluPrint -- Python, Pandas, Numpy, Machine Learning, Linear Regression Modeling, Data Formatting
+Linear regression modeling predicting sale prices for homes in Ames, Iowa.
