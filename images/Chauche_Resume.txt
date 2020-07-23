@@ -12,7 +12,7 @@ Data Analytics Teaching Assistant, General Assembly -- Seattle, WA              
 * Develop instructional materials and perform student assessments
 * Host office hours to troubleshoot student code and perform ad-hoc analysis
 Data Analyst (Freelance), Camano Island Fire Department (CAMF) and Mary’s Place-- Seattle, WA              Feb 2020, May 2020 - Present
-* Clean, analyze, and visualize CAMF incident response time data to identify trends and inform scheduling decisions 
+* Clean, analyze, and visualize CAMF incident data to identify trends, decrease response times, and inform scheduling decisions 
 * Design and develop tools to support more efficient analysis and inform CAMF scheduling decisions 
 * Create visuals and dashboards in Tableau to illustrate CAMF resource usage and communicate insights directly to stakeholders 
 * Work directly with Mary’s Place stakeholders to define project deliverables and identify client needs
