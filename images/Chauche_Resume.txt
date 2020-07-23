@@ -1,53 +1,45 @@
 ﻿Kenya Chauche Data Analyst    |    kenyachauche@gmail.com    |     858 602 9766    |   Seattle, WA
  https://kenyachauche.com     |     https://github.com/KChauche     |     https://www.linkedin.com/in/kenyachauche 
+Certification & Education
+General Assembly -- Certificate, Data Science                                                                                             2019 - 2020 
+Over 600 hours of training in industry leading tools, data analysis, data extraction, modeling, code review, machine learning, and visualization. Techniques from training were applied to real-world datasets and client projects. 
+University of Washington -- Bachelor of Science (B.S.), Ecology and Conservation                                                               2013 - 2017
+Coursework involved research, labwork, data collection, data formatting, and data analysis using R. English Literature Minor.
 Experience
 Data Analytics Teaching Assistant, General Assembly -- Seattle, WA                                                   May 2020 - Present
-* Maintain thorough knowledge of data analytics techniques with a special focus on Excel, Tableau, and SQL
-* Work with students, improve understanding of course material, analytics workflow, and data handling
-* Assist in student assessment and work with lead instructor to adjust to cohort needs
-* Lead demos, troubleshoot code, and perform ad-hoc analysis with Excel, SQL, and Tableau
-
-
-Data Analyst, Freelance -- Seattle, WA                                                                              February 2020, May 2020 - Present
-* Work directly with stakeholders to define project deliverables and identify client needs
-* Manage, clean, analyze, and visualize data with tools such as Python, Tableau, Excel, and SQL
-* Communicate insights to technical and non-technical audiences through both written and verbal means
-* Design and create personalized tools for internal organization use
+* Instruct students and lead demos on Excel, SQL, and Tableau 
+* Instruct students in data preparation, data transformation, and analysis workflows 
+* Develop instructional materials and perform student assessments
+* Host office hours to troubleshoot student code and perform ad-hoc analysis
+Data Analyst (Freelance), Camano Island Fire Department (CAMF) and Mary’s Place-- Seattle, WA              Feb 2020, May 2020 - Present
+* Clean, analyze, and visualize CAMF incident response time data to identify trends and inform scheduling decisions 
+* Design and develop tools to support more efficient analysis and inform CAMF scheduling decisions 
+* Create visuals and dashboards in Tableau to illustrate CAMF resource usage and communicate insights directly to stakeholders 
+* Work directly with Mary’s Place stakeholders to define project deliverables and identify client needs
 Shift Lead, Optimism Brewing Company -- Seattle, WA                                                         June 2018 - Present
-* Research and maintain technical knowledge of beer styles and brewing process
-* Communicate to both technical and non-technical audiences regarding brewing and style traits
-* Supervise, train, coordinate teams of up to 12 staff members
-* Manage, update, and aid in creating standard operating procedures
+* Supervise, train, coordinate teams of up to 12 staff members in running a 700 person capacity beer hall 
+* Collaborate in redesign of service model to preserve public safety amidst COVID spread
+* Standardize operating procedures to achieve more efficient cleaning and set-up practices
+* Research and communicate knowledge of beer styles and brewing process to technical and non-technical audiences
 
 
-MultiMedia Consultant, Shirts Across America -- Seattle, WA                                                     June 2018 - November 2018 
-* Developed social media plan resulting in increased participant engagement and more consistent updates
-* Researched and employed search engine optimization techniques 
-* Created graphics for website and social media content
-
-
-Program Manager, Shirts Across America -- Seattle, WA                                                                         May 2017 - June 2018
-* Aided in website development, planned layout, formatted pages resulting in more user-friendly experience
-* Developed leadership curriculum for high school students pertaining to social justice and activism
-* Coordinated, supervised, and trained 70 - 150 volunteers on national philanthropy trips
-* Managed, organized, maintained, and analyzed  large data sets of volunteer records 
-* Analyzed participant feedback data and identified areas for improvement
+Program Manager, Shirts Across America -- Seattle, WA                                                                           May 2017 - Nov 2018
+* Coordinated, supervised, and trained 70-150 volunteers on national philanthropy trips, producing 9,500+ community service hours
+* Managed, organized, maintained, and analyzed  large data sets of volunteer records and participant feedback to identify areas for program improvement
+* Managed website redesign, created graphics for website and social media platforms, researched and employed search engine optimization techniques to achieve increased public visibility and participant engagement
 Skills 
-* Data Visualization                -    Microsoft Excel        -    Data Handling & Analysis         -    Tableau 
-* Data Presentation                -    Public Speaking        -    Machine Learning                -    Matplotlib
-* Communication                -    Python                 -    Pandas                         -    Seaborn
-* SciPy hypothesis testing        -    SQL                        -    Project Management                -    MS Office
-Education 
-Certificate, Data Science Immersive -- General Assembly Seattle                                                                             2019 - 2020 
-Over 600 hours of training in industry leading tools, data analysis, data extraction, code review, machine learning, and visualization.
-Coursework, Math and Computer Science -- Seattle Community Colleges                                                                         2018 - 2019
-Coursework in Calculus and Computer Science focusing on Python and Java. 
-Bachelor of Science (B.S.), Biology: Ecology and Conservation -- University of Washington                                                       2013 - 2017
-Coursework involved research, labwork, data collection, data formatting, and data analysis using R. English Literature Minor.
+* Python                -   Data Handling        & Analysis        -   SciKit Learn                        -   Leadership
+* SQL                        -   Data Visualization                -   Machine Learning                -   Communication & Collaboration
+* Tableau                -   Data Presentation                 -   Scipy Hypothesis Testing         -   Project Management
+* Excel                        -   Public Speaking                -   Data Modeling                        -   MS Office
 Data Science Projects
 Much Ado About Training -- Python, Keras, Neural Networks, BeautifulSoup, Web Scraping, Data Extraction, Data Formatting
-Natural Language Generation with a neural network trained on Shakespeare’s sonnets. 
+Natural Language Generation with a neural network trained on Shakespeare’s sonnets. This project explores the performance of NLG modeling when training on a rigorously structured language format. 
+Predicting Affluence with Yelp -- Python, Data Extraction, Data Formatting, Web Scraping, Decision Trees, Adaboost Modeling
+Machine Learning experiment testing the ability to predict a Seattle neighborhood’s median income, rent, and home value based on the Yelp statistics. Multiple models were used, including Decision Trees, Adaboost, LASSO, Ridge, and K Nearest Neighbors. 
 Abuse in Hiding -- Python, Web Scraping, Logistic Regression Modeling, Natural Language Processing, Data Extraction, Data Formatting
-NLP classification modeling to distinguish between two subreddits: r/Relationships and r/RelationshipAbuse. 
+Natural Language Processing classification model to distinguish between two subreddits: r/Relationships and r/RelationshipAbuse. Goal is to identify language patterns common in survivors of abuse to inform mental health professionals. 
 BluPrint -- Python, Pandas, Numpy, Machine Learning, Linear Regression Modeling, Data Formatting
-Linear regression modeling predicting sale prices for homes in Ames, Iowa.
+Linear regression modeling predicting sale prices based on a dataset from home sales in Ames, Iowa. Features in this model were identified based on strength of relationship to final sale price intuitive understandability.
+Activities & Interests
+Dungeons & Dragons, video games, baking anything involving rhubarb, fantasy novels, swing dancing, and dogs.
