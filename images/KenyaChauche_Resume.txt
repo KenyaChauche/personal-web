@@ -1,0 +1,51 @@
+﻿Kenya Chauche Program Manager    |    kenyachauche@gmail.com    |     858 602 9766    |   Seattle, WA
+ https://kenyachauche.com     |     https://github.com/KChauche     |     https://www.linkedin.com/in/kenyachauche 
+
+
+Skills 
+* Inter-Team Collaboration                            -   Conflict Resolution             -   Project Management                -   Python
+* Time Management                                      -   Problem Solving             -   Task Management                -   SQL
+* Technical/Non Technical Communication        -   Customer Relations             -   Detail Oriented                -   Tableau
+* Leadership and Teambuilding                     -   Public Speaking             -   Multitasking                        -   Data Handling
+
+
+Experience
+Data Analyst, Freelance -- Seattle, WA                                                                    Feb 2020, May 2020 - Present
+* Design and drive project timeline and work directly with stakeholders to define specific needs and project deliverables 
+* Develop data-driven recommendations and communicate findings directly to stakeholders
+* Clean, analyze, and visualize client data to identify key performance indicators, and inform resource allocation decisions 
+* Create, maintain, and update tools to support efficient analysis and drive data-informed scheduling and allocation decisions
+Data Analytics Teaching Assistant, General Assembly -- Seattle, WA                                                May 2020 - Present
+* Coach  60 students ranging from novice to intermediate in technical topics such as SQL queries and data analysis workflows
+* Instruct students and lead demos on Excel, SQL, and Tableau 
+* Develop instructional materials and perform student assessments
+* Host office hours to debug and implement code solutions, perform ad-hoc analysis
+Manager, Optimism Brewing Company -- Seattle, WA                                                        June 2018 - Present
+* Supervise, train, coordinate teams of up to 12 staff members in running a 700 person capacity beer hall 
+* Collaborate in redesign of service model to preserve public safety amidst COVID spread
+* Devise solutions to improve customer experience, engage community, and promote in-house and to-go beer sales
+* Innovate and streamline operating procedures to achieve more efficient cleaning and set-up practices for events 
+* Research and communicate knowledge of beer styles and brewing process to both industry professionals and general public 
+Program Manager, Shirts Across America -- Seattle, WA                                                                   May 2017 - Nov 2018
+* Developed, managed, and executed leadership training programs and national philanthropy trips while keeping strict deadlines
+* Coordinated, supervised, and trained  70 - 150 volunteers each on national philanthropy trips, producing 9,500+ community service hours
+* Managed, organized, maintained, and analyzed  large data sets of volunteer records and participant feedback to identify areas for program improvement
+* Managed website redesign, created graphics for website and social media platforms, researched and employed search engine optimization techniques to achieve increased public visibility and participant engagement
+
+
+Certification & Education
+General Assembly -- Certificate, Data Science                                                                                    2019 - 2020 
+Over 600 hours of training in industry leading tools, data analysis, data extraction, modeling, code review, machine learning, and visualization. Techniques from training were applied to real-world datasets and client projects. 
+University of Washington -- Bachelor of Science (B.S.), Ecology and Conservation                                                     2013 - 2017
+Coursework involved research, labwork, data collection, data formatting, and data analysis using R. English Literature Minor.
+
+
+Projects
+Predicting Affluence with Yelp -- Python, Data Extraction, Data Formatting, Web Scraping, Data Modeling, Machine Learning
+Abuse in Hiding -- Python, Web Scraping, Logistic Regression Modeling, Natural Language Processing, Data Extraction, Data Formatting
+Much Ado About Training -- Python, Neural Networks, BeautifulSoup, Natural Language Generation, Web Scraping, Data Extraction
+BluPrint -- Python, Pandas, Numpy, Machine Learning, Linear Regression Modeling, Data Formatting, Feature Engineering
+
+
+Activities & Interests
+Dungeons & Dragons, Destiny 2, The Witcher 3, baking rhubarb-based treats, fantasy novels, swing dancing, root beer, and dogs.
